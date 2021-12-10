@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif; 
+}
+
+a {
+    text-decoration: none;
+}
+
+ul li{
+    list-style-type: none;
+}
+th{
+    background-color: rgb(50, 50, 189);
+    color:white;
+}
+
+.content{
+    margin: 5%; 
+}
+
+.post_content{
+    background-color:rgb(230, 233, 235);
+  width: 60%; 
+  padding: 2%; 
+}
+
+.comments{
+    color: rgb(107, 107, 107); 
+}
